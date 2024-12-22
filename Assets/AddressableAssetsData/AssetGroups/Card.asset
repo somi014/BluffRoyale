@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Card
+  m_EditorClassIdentifier: 
+  m_GroupName: Card
+  m_GUID: 8551a480e46bc454e8eaf6c212c9e3af
+  m_SerializeEntries:
+  - m_GUID: 22cd3e7ad45e5ef46bd30f2a7967a52f
+    m_Address: B_card
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2eed2dbb555c05445aa67c56afc2e2ba
+    m_Address: A_card
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31769f915048bb64f8d039781f04351d
+    m_Address: G_card
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b4566673c8149940b637a4f9e9498e6
+    m_Address: H_card
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b479ebbde569374e8f14dfd4928e7c6
+    m_Address: F_card
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acd26d024f9d3ec46b212e86539f32e0
+    m_Address: E_card
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfe333b79e9505547aca6a8d6e1a261b
+    m_Address: C_card
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2f3929f8968d1546ac83d466b91adb4
+    m_Address: D_card
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: edd524c82e795f647ab0716b64149d79, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6501d10863df6654cbecd378afec58c6, type: 2}
+    - {fileID: 11400000, guid: ec84a0630b233a14789ff6da627d4c7f, type: 2}
