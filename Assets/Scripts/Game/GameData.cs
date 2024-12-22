@@ -1,15 +1,16 @@
 
+using System;
 using System.Collections.Generic;
+using UnityEngine.UIElements;
 
 public struct GameSet
 {
     public int playerCount;
     public int cardMaxCount;
     public int cardCount;
-    public CardType cardType;
+
     
 }
-
 public struct PlayerSet
 {
     public List<int> cards;
@@ -36,7 +37,8 @@ public enum CardType
     crow,
     eagle,
     parrot,
-    pelican
+    pelican,
+    END
 }
 
 public enum ActionType
